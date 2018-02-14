@@ -1,0 +1,1 @@
+Tyler CagleGA306Midterm Answers1) import maya.cmdssphere = maya.cmds.polySphere() [0]maya.cmds.polySphere(sphere, radius=3)x = 'bubbles'print(x)print(1+1)2) *args3) *args are used when not using a keyword, and **kwargs are used when using a keyword.4) Optional, input, and parameters 5) if statements6) for statements
