@@ -1,1 +1,0 @@
-Homework Wk11. MEL, C++, Python, Python API2. Command Line, Script Editor, Maya Shelf3. Python 2.7.64. String5. Print(test_variable)6. Create Ð create new objects in the scene, and with specific parameters.Query Ð request information on something already created by a commandEdit Ð allows editing of a command created item	 
